@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un depositorio de prueba para el curso de javascript modulo 2
+Este es una prueba de como clonar un repositorio y clonarlo desde github a mi equipo
